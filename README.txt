@@ -1,5 +1,4 @@
 Student Name: Miriam Snow
-Student Number: 0954174
 Date: November 14, 2017
 
 Description of the Assignment:
